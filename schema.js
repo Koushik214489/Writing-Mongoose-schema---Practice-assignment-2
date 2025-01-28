@@ -49,4 +49,4 @@ const UserName = new mongoose.Schema({
 
      }
 })
-module.export = mongoose.model('user', UserName);
+module.exports = mongoose.model('user', UserName);
