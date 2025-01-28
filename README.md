@@ -53,9 +53,9 @@ Each blog post includes the following fields:
 ---
 
 ### **2. Comments**
-Each blog post can have multiple comments stored as subdocuments:
+Each blog post can have multiple comments stored as subdocuments: 
 
-- **Username**  
+- **  **  
   - **Type**: `String`  
   - **Description**: Username of the commenter.
 
